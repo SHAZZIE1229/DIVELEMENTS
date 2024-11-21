@@ -1,0 +1,21 @@
+/* Styling for individual div elements */
+#header {
+    background-color: #0cf359; /* Light red background for the header */
+}
+
+#nav {
+    background-color: #abf107; /* Light green background for the navigation */
+}
+
+#section {
+    background-color: #fa0979; /* Light blue background for the section */
+}
+
+
+ /* Center the webpage content */
+body {
+    width: 90%; /* Sets the width of the content to 90% of the viewport width */
+    margin: 0 auto; /* Centers the content horizontally by setting equal margins on the left and right */
+}
+
+
